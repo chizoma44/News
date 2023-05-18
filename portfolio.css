@@ -7,7 +7,13 @@
   --neutral-color4: hsl(240, 100%, 5%);
   --default-font-family: "Inter", sans-serif;
 }
+body {
+  background: black;
+}
 
 p {
   font-size: 15px;
+}
+.erase {
+  margin-top: 200px;
 }
